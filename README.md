@@ -12,7 +12,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 Watch the gameplay and explore the features of the Tic Tac Toe game.
 
 
-<img width="1230" height="691" alt="1000144185" src="https://github.com/user-attachments/assets/d9065c5f-83ca-4a6e-a862-af7f32a0dfad" />
+<img width="1230" height="691" alt="1000144410" src="https://github.com/user-attachments/assets/012e4be4-7941-4644-859f-55534e840dbb" />
+
 
 
 ✨ Features
