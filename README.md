@@ -5,13 +5,14 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 🚀 Live Demo
 
-"Click here to play Tic Tac Toe" (#)
+"Click here to play Tic Tac Toe" (https://pragya158.github.io/Tic-Tac-Toe-Game/)
 
 🎥 Demo Video
 
 Watch the gameplay and explore the features of the Tic Tac Toe game.
 
-<!-- Add your demo video link below -->"▶ Watch Demo Video" (YOUR_VIDEO_LINK_HERE)
+
+<img width="1230" height="691" alt="1000144185" src="https://github.com/user-attachments/assets/d9065c5f-83ca-4a6e-a862-af7f32a0dfad" />
 
 
 ✨ Features
