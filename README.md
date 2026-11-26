@@ -5,7 +5,10 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 🚀 Live Demo
 
-"Click here to play Tic Tac Toe" (https://pragya158.github.io/Tic-Tac-Toe-Game/)
+"Click here to play Tic Tac Toe"
+ (https://pragya158.github.io/Tic-Tac-Toe-Game/)
+
+-------------------------------------------
 
 🎥 Demo Video
 
@@ -14,7 +17,7 @@ Watch the gameplay and explore the features of the Tic Tac Toe game.
 
 <img width="1230" height="691" alt="1000144410" src="https://github.com/user-attachments/assets/012e4be4-7941-4644-859f-55534e840dbb" />
 
-
+-------------------------------------------
 
 ✨ Features
 
@@ -27,6 +30,8 @@ Watch the gameplay and explore the features of the Tic Tac Toe game.
 - Reset Game and New Game options.
 - Responsive and user-friendly interface.
 
+-------------------------------------------
+
 🛠️ Technologies Used
 
 - HTML5 – Structure of the game.
@@ -34,16 +39,19 @@ Watch the gameplay and explore the features of the Tic Tac Toe game.
 - JavaScript – Game logic and winner detection.
 - Canvas Confetti – Celebration animation.
 
+-------------------------------------------
+
 📂 Project Structure
 
+```text
 Tic-Tac-Toe Game/
 │
 ├── index.html
 ├── README.md
 ├── script.js
 └── style.css
-
-
+```
+-------------------------------------------
 💻 How to Run Locally
 
 1. Clone this repository:
@@ -57,12 +65,16 @@ Tic-Tac-Toe Game/
 
 4. Start playing Tic Tac Toe!
 
+-------------------------------------------
+
 🎯 How to Play
 
 1. Player O starts the game.
 2. Players take turns selecting empty boxes.
 3. The first player to get three matching symbols in a row, column, or diagonal wins.
 4. Click Reset or New Game to play again.
+
+-------------------------------------------
 
 👩‍💻 Author
 
@@ -73,3 +85,5 @@ Pragya Rathore
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
+-------------------------------------------
